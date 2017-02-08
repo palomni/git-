@@ -1,0 +1,22 @@
+body {
+	margin:0px;
+	background-image:url(img/fon.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position:center;
+	
+}
+#footer{
+clear:both;
+background-color:#2403FC;
+color:blue;
+text-align:center;
+color:blue;
+}
+
+
+
+.circle:hover {
+  border-radius: 50%;
+  
+}

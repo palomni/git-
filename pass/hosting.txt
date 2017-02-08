@@ -1,0 +1,22 @@
+Адрес ПУА: https://cp.beget.com
+Имя пользователя: t969062z
+Пароль: KEy5SisQ
+Сервер: free13
+
+При отправке запроса произошла ошибка.
+Если ошибка будет повторяться, обратитесь в службу технической поддержки, сообщив им код ошибки: 1477078674.3778352
+
+ns1.beget.com
+ns2.beget.com
+ns1.beget.pro
+ns2.beget.pro
+
+
+mysql
+t969062z_1
+nuutelaDSx6
+
+wordpress
+brq78
+humusaki
+gortiger@yroid.com
